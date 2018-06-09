@@ -1,0 +1,1 @@
+Ideen bak dette prosjektet er å lage en nettside, som gjør det enklere for folk som ikke har noen å øvelseskjøre med å få lappen. 
